@@ -4,17 +4,58 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap" rel="stylesheet">
     <title>Rock Paper Scissors for TOP</title>
-    <script src="main.js"></script>
 </head>
 <body>
+    
     <header>
-        <h1>Rock Paper Scissors</h1>
-        <p>(in console for now)</p>
+
+        <h1>Rock Paper Scissors !</h1>
+        <p>Let's play against the odds... Will you be lucky ?</p>
+
     </header>
 
+    <section id="game">
 
+        <h2>Choose wisely !</h2>
+        <p>The first to 5</p>
+        
+        <div class="score">
 
+            <p>Player Score : <span class="player-score"></span></p>
+    
+            <p>Computer Score : <span class="computer-score"></span></p>
 
+        </div>
+
+        <p class="displaycomputerChoice"></p>
+
+        <div class="btn">
+            
+            <button class="btn-rock">Rock</button> 
+        
+            <button class="btn-paper">Paper</button>
+            
+            <button class="btn-scissors">Scissors</button>
+
+        </div>
+
+        <div>
+            <p class="result"></p>
+        </div>
+
+        
+    </section>
+    
+    <footer>
+
+        Copyright © ITClmt (For The Odin Project) 2023
+
+    </footer>
+    <script src="main.js"></script>
 </body>
 </html>

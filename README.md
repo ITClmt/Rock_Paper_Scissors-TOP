@@ -1,7 +1,11 @@
 ROCK, PAPER, SCISSORS !
 For The Odin Project
 
-(First step of the game, the game is only in the console for now)
+This is the UI version of my 'ROCK, PAPER, SCISSORS !'
 
-This is a project for "The Odin Project", to practice and to show Javascript lessons I learned for now.
+I learned a lot doing this project, and had so much fun !
+
+Some change will be made during time as I learn practice more.
+
+Hope you enjoy, and any advice will be welcome !
 
