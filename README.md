@@ -5,7 +5,7 @@ This is the UI version of my 'ROCK, PAPER, SCISSORS !'
 
 I learned a lot doing this project, and had so much fun !
 
-Some change will be made during time as I learn practice more.
+Some change will be made during time as I learn and practice more.
 
 Hope you enjoy, and any advice will be welcome !
 
