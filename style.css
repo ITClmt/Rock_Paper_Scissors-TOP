@@ -95,4 +95,24 @@ button:active {
     align-items: center;
   }
 
-  
+  @media screen and (max-width: 1000px) {
+    .btn {
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        margin-bottom: -100px;
+    }
+
+    .btn button {
+        font-size: 1em;
+        margin: 10px 0px;
+    }
+
+    header {
+        text-align: center;
+        font-size: 25px;
+    }
+    #game h2 {
+        font-size: 25px;
+    }
+}
